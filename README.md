@@ -1,5 +1,8 @@
 # ModalUI
-A Modal UI Window in Unity that has customizable options and returns a ModalResult when a button is clicked for example ModalResult.OK. The Modal UI is meant to be similar to how the .Net Forms ShowMessage modal forms work.  
+A Modal UI Window in Unity that has customizable options and returns a ModalResult when a button is clicked for example ModalResult.OK.<br>
+The Modal UI is meant to be similar to how the .Net Forms ShowMessage modal forms work.
+
+![]("https://raw.githubusercontent.com/Cyber-Jellyfish/ModalUI/main/Assets/~Documentation/Images/Unity_TemplateModal.png")
 
 ## How To
 1. Import Text Mesh Pro if you have not already done so.
