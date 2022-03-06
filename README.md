@@ -33,6 +33,6 @@ public async void HandleModal()
             break;
         // ...
     }
-    
 }
+
 ```
